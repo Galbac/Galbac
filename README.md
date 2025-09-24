@@ -1,10 +1,8 @@
-<!-- 🚀 Futuristic GitHub Profile README -->
-
 <p align="center">
   <img src="https://media.tenor.com/4ryMZk90CjAAAAAd/neon-lights.gif" width="100%" />
 </p>
 
-<h1 align="center">⚡ GALBAC Neural Interface v3.1 ⚡</h1>
+<h1 align="center">⚡ Zidan Saparbegov ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initializing+Neural+Link...;Loading+Core+Modules...;Access+Granted+✅;Welcome+to+the+Future+of+Code+🚀" alt="Typing Animation" />
@@ -26,28 +24,28 @@
 
 ## 🌐 Connectivity
 <p align="center">
-  <a href="https://t.me/galbac">
+  <a href="https://t.me/saparbegov_01">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:galbac.dev@example.com">
+  <a href="mailto:saparbegov@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Galbac">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/galbac">
+  <a href="https://www.linkedin.com/in/zidan-saparbegov-402423241/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vk.com/galbac">
+  <a href="https://vk.com/id535021375">
     <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/galbac">
+  <a href="https://www.instagram.com/saparbegov_01">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:galbac@mail.ru">
+  <a href="mailto:zidan_2002@mail.ru">
     <img src="https://img.shields.io/badge/Mail-R6001F?style=for-the-badge&logo=mail.ru&logoColor=white" />
   </a>
-  <a href="https://wa.me/79123456789">
+  <a href="https://wa.me/79898787808">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -118,30 +116,8 @@
 
 ---
 
-## 🛸 ASCII Ship
-    .      .'
-   .:    .'
-   ::  .'
-   ::.'             GALBAC ENTERPRISE
-   :::
-   ':`
-     `.
-       `-._
-          `---.___
-                    `.
-                      `.
-                        `.
-
-
-*Показывает концепт “запуска” проекта и киберпанковый старт.*
-
----
-
-## 🌀 Terminal Feed
-```bash
-$ git clone https://github.com/Galbac/NeuralInterface.git
-$ cd NeuralInterface
-$ docker-compose up -d
-$ uvicorn app.main:app --reload
-$ pytest tests/
-$ echo "System Online: Neural Link Stable ✅ Modules Active 🟢"
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Galbac&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Galbac.Galbac" alt="unique visitors"/>
+</p>
