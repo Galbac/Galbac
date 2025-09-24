@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/ru/view/rain-mood-droplets-jendela-tetesan-gif-11178355" width="100%" />
+  <img src="**https://tenor.com/ru/view/rain-mood-droplets-jendela-tetesan-gif-11178355**" width="100%" />
 </p>
 
 <h1 align="center">⚡ Zidan Saparbegov ⚡</h1>
