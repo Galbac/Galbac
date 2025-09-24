@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/0J9cX1QvJd8AAAAC/rain-mood-droplets.gif" width="100%" />
-</p>
-
 <h1 align="center">⚡ Zidan Saparbegov ⚡</h1>
 
 <p align="center">
