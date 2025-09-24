@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/4ryMZk90CjAAAAAd/neon-lights.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-a657d000-a44a-11eb-8c18-7d6d8e2d8f9e.gif" width="100%" />
 </p>
 
 <h1 align="center">⚡ Zidan Saparbegov ⚡</h1>
