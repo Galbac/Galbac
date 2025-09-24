@@ -55,12 +55,14 @@
   <img src="https://img.shields.io/badge/Status-Coding%20in%20the%20Matrix-00F0FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Mood-98%25%20Caffeinated-F74968?style=for-the-badge" />
 </p>
+
 ---
 
-##📅 GitHub Activity Graph
+## 📅 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Galbac&theme=react-dark&hide_border=true" width="100%" />
 </p>
+
 ---
 
 ## 📊 System Metrics
