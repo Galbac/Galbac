@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="**https://tenor.com/ru/view/rain-mood-droplets-jendela-tetesan-gif-11178355**" width="100%" />
+  <div class="tenor-gif-embed" data-postid="11178355" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/rain-mood-droplets-jendela-tetesan-gif-11178355">Rain Mood GIF</a>from <a href="https://tenor.com/search/rain-gifs">Rain GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <h1 align="center">⚡ Zidan Saparbegov ⚡</h1>
