@@ -100,17 +100,17 @@
 
 ## 🚀 Current Projects
 <p align="center">
-  <a href="https://github.com/Galbac/OpenWeather">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=OpenWeather&theme=radical&hide_border=true" />
+  <a href="https://github.com/Galbac/BonusHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=BonusHub&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Galbac/A-clinic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=A-clinic&theme=radical&hide_border=true" />
+  <a href="https://github.com/Galbac/VisitkaCafe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=VisitkaCafe&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Galbac/VPN-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=VPN-Bot&theme=radical&hide_border=true" />
+  <a href="https://github.com/Galbac/ProductShopAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=ProductShopAPI&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Galbac/Makhachkala-OPEN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=Makhachkala-OPEN&theme=radical&hide_border=true" />
+  <a href="https://github.com/Galbac/EnglishTrainer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galbac&repo=EnglishTrainer&theme=radical&hide_border=true" />
   </a>
 </p>
 
