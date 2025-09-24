@@ -5,7 +5,7 @@
 <h1 align="center">⚡ Zidan Saparbegov ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initializing+Neural+Link...;Loading+Core+Modules...;Access+Granted+✅;Welcome+to+the+Future+of+Code+🚀" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Initializing+Neural+Link...;Loading+Core+Modules...;Access+Granted+%E2%9C%85;Welcome+to+the+Future+of+Code+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 ---
